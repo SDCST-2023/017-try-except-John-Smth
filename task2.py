@@ -14,4 +14,14 @@ The reciprocal of 2 is 0.5
 The reciprocal of 3 is 0.3333333333333333
 The reciprocal of 4 is 0.25
 """
-numbers = [0,1,2,3,4]
+for i in range(5 ):
+    try:
+       
+        
+     
+            print(1/i)
+    
+    except:
+        print("no")
+
+
